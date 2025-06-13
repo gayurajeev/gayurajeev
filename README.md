@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML**
 
-- 🌱 I’m currently learning **MLl**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **gayathry.rs22@gmail.com**
 
