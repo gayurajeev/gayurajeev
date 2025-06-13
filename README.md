@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gayathry Rajeev</h1>
 <h3 align="center">A passionate ML learner from India</h3>
 
-- 🔭 I’m currently working on **EXCEL mini project **
+- 🔭 I’m currently working on **ML**
 
-- 🌱 I’m currently learning **Excel**
+- 🌱 I’m currently learning **MLl**
 
 - 📫 How to reach me **gayathry.rs22@gmail.com**
 
